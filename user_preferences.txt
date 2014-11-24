@@ -7,7 +7,7 @@
 	"fade_fold_buttons": false,
 	"font_face": "Consolas",
 	"font_size": 15,
-	"highlight_line": false,
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -26,17 +26,12 @@
 	"phoenix_sidebar_font_xlarge": true,
 	"phoenix_solid_current_tab": true,
 	"remember_open_files": false,
-	"rulers":
-	[
-		80
-	],
-	"soda_folder_icons": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"soda_folder_icons": false,
 	"tab_size": 4,
 	"theme": "Phoenix Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
-
-	"show_encoding": true,
-	"show_line_endings": true
+	"word_wrap": false
 }
